@@ -1,0 +1,1995 @@
+fileFormatVersion: 2
+guid: d152878bc5162c54cac5600062a24a5d
+timeCreated: 1452884108
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000b5000000b6000000b7000000b8000000b9000000ba000000bb000000bc000000bd000000be000000bf000000c0000000c1000000c2000000c3000000c4000000c5000000c6000000c7000000c8000000c9000000ca000000cb000000cc000000cd000000ce000000cf000000d0000000d1000000d2000000d3000000d4000000d5000000d6000000d7000000d8000000d9000000da000000db000000dc000000dd000000de000000df000000e0000000e1000000e2000000e3000000e4000000e5000000e6000000e7000000e8000000e9000000ea000000eb000000ec000000ed000000ee000000ef000000f0000000f1000000f2000000f3000000f4000000f5000000f6000000f7000000f8000000f9000000fa000000fb000000fc000000fd000000fe000000ff000000000100000101000002010000030100000401000005010000060100000701000008010000090100000a0100000b0100000c0100000d0100000e0100000f010000100100001101000012010000130100001401000015010000160100001701000018010000190100001a0100001b0100001c0100001d0100001e0100001f010000200100002101000022010000230100002401000025010000260100002701000028010000290100002a0100002b0100002c0100002d0100002e0100002f010000300100003101000032010000330100003401000035010000360100003701000038010000390100003a0100003b0100003c0100003d0100003e0100003f010000400100004101000042010000430100004401000045010000460100004701000048010000490100004a0100004b0100004c0100004d0100004e0100004f010000500100005101000052010000530100005401000055010000560100005701000058010000590100005a0100005b0100005c0100005d0100005e0100005f010000600100006101000062010000630100006401000065010000660100006701000068010000690100006a0100006b0100006c0100006d0100006e0100006f010000700100007101000072010000730100007401000075010000760100007701000078010000790100007a0100007b0100007c0100007d0100007e0100007f010000800100008101000082010000830100008401000085010000860100008701000088010000890100008a0100008b0100008c0100008d0100008e0100008f010000900100009101000092010000930100009401000095010000960100009701000098010000990100009a0100009b0100009c0100009d0100009e0100009f010000a0010000a1010000a2010000a3010000a4010000a5010000a6010000a7010000a8010000a9010000aa010000ab010000ac010000ad010000ae010000af010000b0010000b1010000b2010000b3010000b4010000b5010000b6010000b7010000b8010000b9010000ba010000bb010000bc010000bd010000be010000bf010000c0010000c1010000c2010000c3010000c4010000c5010000c6010000c7010000c8010000c9010000ca010000cb010000cc010000cd010000ce010000cf010000d0010000d1010000d2010000d3010000d4010000d5010000d6010000d7010000d8010000d9010000da010000db010000dc010000dd010000de010000df010000e0010000e1010000e2010000e3010000e4010000e5010000e6010000e7010000e8010000e9010000ea010000eb010000ec010000ed010000ee010000ef010000f0010000f1010000f2010000f3010000f4010000f5010000f6010000f7010000f8010000f9010000fa010000fb010000fc010000fd010000fe010000ff010000000200000102000002020000030200000402000005020000060200000702000008020000090200000a0200000b0200000c0200000d0200000e0200000f020000100200001102000012020000130200001402000015020000160200001702000018020000190200001a0200001b0200001c0200001d0200001e0200001f020000200200002102000022020000230200002402000025020000260200002702000028020000290200002a0200002b0200002c0200002d0200002e0200002f020000300200003102000032020000330200003402000035020000360200003702000038020000390200003a0200003b0200003c0200003d0200003e0200003f020000400200004102000042020000430200004402000045020000460200004702000048020000490200004a0200004b0200004c0200004d0200004e0200004f020000500200005102000052020000530200005402000055020000560200005702000058020000590200005a0200005b0200005c0200005d0200005e0200005f020000600200006102000062020000630200006402000065020000660200006702000068020000690200006a0200006b0200006c0200006d0200006e0200006f020000700200007102000072020000730200007402000075020000760200007702000078020000790200007a0200007b0200007c0200007d0200007e0200007f020000800200008102000082020000830200008402000085020000860200008702000088020000890200008a0200008b0200008c0200008d0200008e0200008f020000900200009102000092020000930200009402000095020000960200009702000098020000990200009a0200009b0200009c0200009d0200009e0200009f020000a0020000a1020000a2020000a3020000a4020000a5020000a6020000a7020000a8020000a9020000aa020000ab020000ac020000ad020000ae020000af020000b0020000b1020000b2020000b3020000b4020000b5020000b6020000b7020000b8020000b9020000ba020000bb020000bc020000bd020000be020000bf020000c0020000c1020000c2020000c3020000c4020000c5020000c6020000c7020000c8020000c9020000ca020000cb020000cc020000cd020000ce020000cf020000d0020000d1020000d2020000d3020000d4020000d5020000d6020000d7020000d8020000d9020000da020000db020000dc020000dd020000de020000df020000e0020000e1020000e2020000e3020000e4020000e5020000e6020000e7020000e8020000e9020000ea020000eb020000ec020000ed020000ee020000ef020000f0020000f1020000f2020000f3020000f4020000f5020000f6020000f7020000f8020000f9020000fa020000fb020000fc020000fd020000fe020000ff020000000300000103000002030000030300000403000005030000060300000703000008030000090300000a0300000b0300000c0300000d0300000e0300000f030000100300001103000012030000130300001403000015030000160300001703000018030000190300001a0300001b0300001c0300001d0300001e0300001f030000200300002103000022030000230300002403000025030000260300002703000028030000290300002a0300002b0300002c0300002d0300002e0300002f030000300300003103000032030000330300003403000035030000360300003703000038030000390300003a0300003b0300003c0300003d0300003e0300003f030000400300004103000042030000430300004403000045030000460300004703000048030000490300004a0300004b0300004c0300004d0300004e0300004f030000500300005103000052030000530300005403000055030000560300005703000058030000590300005a0300005b0300005c0300005d0300005e0300005f030000600300006103000062030000630300006403000065030000660300006703000068030000690300006a0300006b0300006c0300006d0300006e0300006f030000700300007103000072030000730300007403000075030000760300007703000078030000790300007a0300007b0300007c0300007d0300007e0300007f030000800300008103000082030000830300008403000085030000860300008703000088030000890300008a0300008b0300008c0300008d0300008e0300008f030000900300009103000092030000
+  assetHash:
+    serializedVersion: 2
+    Hash: 96a12c2c6b0bffaceb0b46fda282d57e
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 2.6417663, y: 2.2026815, z: -10.575672}
+      lookAt: {x: 4.034302, y: -0.6547711, z: 12.2381935}
+      up: {x: 0.007557967, y: 0.9922757, z: 0.1238219}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 12
+    100002: 12 1
+    100004: 12 2
+    100006: 12 3
+    100008: Alarm Grenzen
+    100010: Alarm Grenzen 1
+    100012: Alarme Aus
+    100014: Alarme Aus 1
+    100016: Alle Alarme Aus
+    100018: Alle Alarme Aus 1
+    100020: "Batterieladeger\xE4"
+    100022: "Batterieladeger\xE4 1"
+    100024: Bild
+    100026: Bild 1
+    100028: Caster Swivel
+    100030: Caster Swivel 1
+    100032: Caster Swivel 2
+    100034: Caster Swivel 3
+    100036: Caster Wheel
+    100038: Caster Wheel 1
+    100040: Caster Wheel 2
+    100042: Caster Wheel 3
+    100044: Component#1
+    100046: Component#1 1
+    100048: Component#1 2
+    100050: Component#1 3
+    100052: Component#1 4
+    100054: Component#1 5
+    100056: Component#10
+    100058: Component#10 1
+    100060: Component#10 10
+    100062: Component#10 11
+    100064: Component#10 12
+    100066: Component#10 13
+    100068: Component#10 14
+    100070: Component#10 15
+    100072: Component#10 16
+    100074: Component#10 17
+    100076: Component#10 18
+    100078: Component#10 19
+    100080: Component#10 2
+    100082: Component#10 20
+    100084: Component#10 21
+    100086: Component#10 22
+    100088: Component#10 23
+    100090: Component#10 24
+    100092: Component#10 25
+    100094: Component#10 26
+    100096: Component#10 27
+    100098: Component#10 28
+    100100: Component#10 29
+    100102: Component#10 3
+    100104: Component#10 30
+    100106: Component#10 31
+    100108: Component#10 32
+    100110: Component#10 33
+    100112: Component#10 34
+    100114: Component#10 35
+    100116: Component#10 36
+    100118: Component#10 37
+    100120: Component#10 38
+    100122: Component#10 39
+    100124: Component#10 4
+    100126: Component#10 40
+    100128: Component#10 41
+    100130: Component#10 42
+    100132: Component#10 43
+    100134: Component#10 44
+    100136: Component#10 45
+    100138: Component#10 46
+    100140: Component#10 47
+    100142: Component#10 48
+    100144: Component#10 49
+    100146: Component#10 5
+    100148: Component#10 50
+    100150: Component#10 51
+    100152: Component#10 52
+    100154: Component#10 53
+    100156: Component#10 54
+    100158: Component#10 55
+    100160: Component#10 56
+    100162: Component#10 57
+    100164: Component#10 58
+    100166: Component#10 59
+    100168: Component#10 6
+    100170: Component#10 60
+    100172: Component#10 61
+    100174: Component#10 62
+    100176: Component#10 63
+    100178: Component#10 64
+    100180: Component#10 65
+    100182: Component#10 66
+    100184: Component#10 67
+    100186: Component#10 68
+    100188: Component#10 69
+    100190: Component#10 7
+    100192: Component#10 8
+    100194: Component#10 9
+    100196: Component#21
+    100198: Component#21 1
+    100200: Component#21 2
+    100202: Component#21 3
+    100204: Component#21 4
+    100206: Component#21 5
+    100208: Component#21 6
+    100210: Component#21 7
+    100212: Component#3
+    100214: Component#3 1
+    100216: Component#3 10
+    100218: Component#3 11
+    100220: Component#3 12
+    100222: Component#3 13
+    100224: Component#3 14
+    100226: Component#3 15
+    100228: Component#3 16
+    100230: Component#3 17
+    100232: Component#3 18
+    100234: Component#3 19
+    100236: Component#3 2
+    100238: Component#3 20
+    100240: Component#3 21
+    100242: Component#3 22
+    100244: Component#3 23
+    100246: Component#3 24
+    100248: Component#3 25
+    100250: Component#3 26
+    100252: Component#3 27
+    100254: Component#3 28
+    100256: Component#3 29
+    100258: Component#3 3
+    100260: Component#3 30
+    100262: Component#3 31
+    100264: Component#3 32
+    100266: Component#3 33
+    100268: Component#3 34
+    100270: Component#3 35
+    100272: Component#3 4
+    100274: Component#3 5
+    100276: Component#3 6
+    100278: Component#3 7
+    100280: Component#3 8
+    100282: Component#3 9
+    100284: Component#4
+    100286: Component#4 1
+    100288: Component#4 10
+    100290: Component#4 11
+    100292: Component#4 12
+    100294: Component#4 13
+    100296: Component#4 14
+    100298: Component#4 15
+    100300: Component#4 16
+    100302: Component#4 17
+    100304: Component#4 18
+    100306: Component#4 19
+    100308: Component#4 2
+    100310: Component#4 20
+    100312: Component#4 21
+    100314: Component#4 22
+    100316: Component#4 23
+    100318: Component#4 24
+    100320: Component#4 25
+    100322: Component#4 26
+    100324: Component#4 27
+    100326: Component#4 28
+    100328: Component#4 29
+    100330: Component#4 3
+    100332: Component#4 30
+    100334: Component#4 31
+    100336: Component#4 32
+    100338: Component#4 33
+    100340: Component#4 34
+    100342: Component#4 4
+    100344: Component#4 5
+    100346: Component#4 6
+    100348: Component#4 7
+    100350: Component#4 8
+    100352: Component#4 9
+    100354: Crash Cart
+    100356: Crash/Supply Cart
+    100358: D
+    100360: D 1
+    100362: door handle
+    100364: door handle 1
+    100366: "Dr\xE4ger Anaesthesia Workstation"
+    100368: "Dr\xE4ger Anaesthesia Workstation 1"
+    100370: "Dr\xE4ger_Logo"
+    100372: "Dr\xE4ger_Logo 1"
+    100374: "Dr\xE4ger_Logo 2"
+    100376: "Dr\xE4ger_Logo 3"
+    100378: e-cylinder
+    100380: e-cylinder 1
+    100382: GammaXL
+    100384: GammaXL 1
+    100386: Group 175
+    100388: Group 176
+    100390: Group 2
+    100392: Group 233
+    100394: Group 290
+    100396: Group 292
+    100398: Group 318
+    100400: Group 344
+    100402: Group 344_MeshPart0
+    100404: Group 344_MeshPart1
+    100406: Group 346
+    100408: Group 354
+    100410: Group 362
+    100412: Group 370
+    100414: Group 372
+    100416: Group 374
+    100418: Group 376
+    100420: Group 378
+    100422: Group 386
+    100424: Group 394
+    100426: Group 4
+    100428: Group 402
+    100430: Group 404
+    100432: Group 406
+    100434: Group 408
+    100436: Group 410
+    100438: Group 412
+    100440: Group 414
+    100442: Group 416
+    100444: Group 418
+    100446: Group 420
+    100448: Group 422
+    100450: Group 424
+    100452: Group 426
+    100454: Group 428
+    100456: Group 430
+    100458: Group 6
+    100460: Group 677
+    100462: Group 744
+    100464: Group 804
+    100466: Group 805
+    100468: Group 807
+    100470: Group 809
+    100472: Group 814
+    100474: Group 820
+    100476: Group 821
+    100478: Group 823
+    100480: Group 825
+    100482: Group 827
+    100484: Group 829
+    100486: Group 831
+    100488: Group 833
+    100490: Group 851
+    100492: Group 852
+    100494: Group 854
+    100496: Group 855
+    100498: Group 857
+    100500: Group 859
+    100502: Group 861
+    100504: Group 862
+    100506: Group 863
+    100508: Group 865
+    100510: Group 866
+    100512: Group 868
+    100514: Group 869
+    100516: Group 871
+    100518: Group 873
+    100520: Group 875
+    100522: Group 876
+    100524: Group 877
+    100526: Group 879
+    100528: Group 880
+    100530: Group 882
+    100532: Group 883
+    100534: Group 885
+    100536: Group 887
+    100538: Group 889
+    100540: Group 890
+    100542: Group 891
+    100544: Group 893
+    100546: Group 894
+    100548: Group 896
+    100550: Group 897
+    100552: Group 899
+    100554: Group 901
+    100556: Group 903
+    100558: Group 904
+    100560: Group 905
+    100562: Hauptbild
+    100564: Hauptbild 1
+    100566: Infinity Gamma X
+    100568: Infinity Gamma X 1
+    100570: joint
+    100572: joint 1
+    100574: joint 2
+    100576: joint 3
+    100578: Kopie
+    100580: Kopie 1
+    100582: LC-T121R8PU 12V,
+    100584: LC-T121R8PU 12V, 1
+    100586: Light_Floor_Arco
+    100588: Light_Floor_Arco 1
+    100590: Light_Floor_Cable#1
+    100592: Light_Floor_Cable#1 1
+    100594: "Men\xFC"
+    100596: "Men\xFC 1"
+    100598: modern door handle
+    100600: modern door handle 1
+    100602: NBP
+    100604: NBP 1
+    100606: NBP Only !
+    100608: NBP Only ! 1
+    100610: Notfall
+    100612: Notfall 1
+    100614: 'Pin BO-PP-25(m6) - Art. No.: 035001'
+    100616: 'Pin BO-PP-25(m6) - Art. No.: 035001 1'
+    100618: 'Pin BO-PP-25(m6) - Art. No.: 035001 10'
+    100620: 'Pin BO-PP-25(m6) - Art. No.: 035001 11'
+    100622: 'Pin BO-PP-25(m6) - Art. No.: 035001 12'
+    100624: 'Pin BO-PP-25(m6) - Art. No.: 035001 13'
+    100626: 'Pin BO-PP-25(m6) - Art. No.: 035001 14'
+    100628: 'Pin BO-PP-25(m6) - Art. No.: 035001 15'
+    100630: 'Pin BO-PP-25(m6) - Art. No.: 035001 2'
+    100632: 'Pin BO-PP-25(m6) - Art. No.: 035001 3'
+    100634: 'Pin BO-PP-25(m6) - Art. No.: 035001 4'
+    100636: 'Pin BO-PP-25(m6) - Art. No.: 035001 5'
+    100638: 'Pin BO-PP-25(m6) - Art. No.: 035001 6'
+    100640: 'Pin BO-PP-25(m6) - Art. No.: 035001 7'
+    100642: 'Pin BO-PP-25(m6) - Art. No.: 035001 8'
+    100644: 'Pin BO-PP-25(m6) - Art. No.: 035001 9'
+    100646: pr
+    100648: pr 1
+    100650: Primus#1
+    100652: Primus#1 1
+    100654: Rechargeable Sea
+    100656: Rechargeable Sea 1
+    100658: SimpleDome02
+    100660: SimpleDome02 1
+    100662: ske40D
+    100664: ske40D 1
+    100666: ske40D 10
+    100668: ske40D 11
+    100670: ske40D 12
+    100672: ske40D 13
+    100674: ske40D 14
+    100676: ske40D 15
+    100678: ske40D 2
+    100680: ske40D 3
+    100682: ske40D 4
+    100684: ske40D 5
+    100686: ske40D 6
+    100688: ske40D 7
+    100690: ske40D 8
+    100692: ske40D 9
+    100694: Start / Stop
+    100696: Start / Stop 1
+    100698: Surgery 1
+    100700: To Nurses statio
+    100702: //RootNode
+    100704: Untitled(2)
+    100706: Untitled(2) 1
+    100708: Vial
+    100710: Vial 1
+    100712: Vial 2
+    100714: Vial 3
+    100716: Wire Pull
+    100718: Wire Pull 1
+    100720: Wire Pull 10
+    100722: Wire Pull 11
+    100724: Wire Pull 12
+    100726: Wire Pull 13
+    100728: Wire Pull 14
+    100730: Wire Pull 15
+    100732: Wire Pull 16
+    100734: Wire Pull 17
+    100736: Wire Pull 18
+    100738: Wire Pull 19
+    100740: Wire Pull 2
+    100742: Wire Pull 20
+    100744: Wire Pull 21
+    100746: Wire Pull 22
+    100748: Wire Pull 23
+    100750: Wire Pull 24
+    100752: Wire Pull 25
+    100754: Wire Pull 26
+    100756: Wire Pull 27
+    100758: Wire Pull 28
+    100760: Wire Pull 29
+    100762: Wire Pull 3
+    100764: Wire Pull 30
+    100766: Wire Pull 31
+    100768: Wire Pull 32
+    100770: Wire Pull 33
+    100772: Wire Pull 34
+    100774: Wire Pull 35
+    100776: Wire Pull 36
+    100778: Wire Pull 37
+    100780: Wire Pull 38
+    100782: Wire Pull 39
+    100784: Wire Pull 4
+    100786: Wire Pull 40
+    100788: Wire Pull 41
+    100790: Wire Pull 42
+    100792: Wire Pull 43
+    100794: Wire Pull 5
+    100796: Wire Pull 6
+    100798: Wire Pull 7
+    100800: Wire Pull 8
+    100802: Wire Pull 9
+    100804: Wire Pull#1
+    100806: Wire Pull#1 1
+    100808: Wire Pull#1 10
+    100810: Wire Pull#1 11
+    100812: Wire Pull#1 12
+    100814: Wire Pull#1 13
+    100816: Wire Pull#1 14
+    100818: Wire Pull#1 15
+    100820: Wire Pull#1 16
+    100822: Wire Pull#1 17
+    100824: Wire Pull#1 18
+    100826: Wire Pull#1 2
+    100828: Wire Pull#1 3
+    100830: Wire Pull#1 4
+    100832: Wire Pull#1 5
+    100834: Wire Pull#1 6
+    100836: Wire Pull#1 7
+    100838: Wire Pull#1 8
+    100840: Wire Pull#1 9
+    100842: Wire Pull/2
+    100844: Wire Pull/2 1
+    100846: Wire Pull/2 10
+    100848: Wire Pull/2 11
+    100850: Wire Pull/2 12
+    100852: Wire Pull/2 13
+    100854: Wire Pull/2 14
+    100856: Wire Pull/2 15
+    100858: Wire Pull/2 16
+    100860: Wire Pull/2 17
+    100862: Wire Pull/2 18
+    100864: Wire Pull/2 19
+    100866: Wire Pull/2 2
+    100868: Wire Pull/2 20
+    100870: Wire Pull/2 21
+    100872: Wire Pull/2 22
+    100874: Wire Pull/2 23
+    100876: Wire Pull/2 24
+    100878: Wire Pull/2 25
+    100880: Wire Pull/2 26
+    100882: Wire Pull/2 27
+    100884: Wire Pull/2 28
+    100886: Wire Pull/2 29
+    100888: Wire Pull/2 3
+    100890: Wire Pull/2 30
+    100892: Wire Pull/2 31
+    100894: Wire Pull/2 32
+    100896: Wire Pull/2 33
+    100898: Wire Pull/2 34
+    100900: Wire Pull/2 35
+    100902: Wire Pull/2 36
+    100904: Wire Pull/2 37
+    100906: Wire Pull/2 38
+    100908: Wire Pull/2 39
+    100910: Wire Pull/2 4
+    100912: Wire Pull/2 40
+    100914: Wire Pull/2 41
+    100916: Wire Pull/2 42
+    100918: Wire Pull/2 43
+    100920: Wire Pull/2 44
+    100922: Wire Pull/2 45
+    100924: Wire Pull/2 46
+    100926: Wire Pull/2 47
+    100928: Wire Pull/2 48
+    100930: Wire Pull/2 49
+    100932: Wire Pull/2 5
+    100934: Wire Pull/2 50
+    100936: Wire Pull/2 51
+    100938: Wire Pull/2 52
+    100940: Wire Pull/2 53
+    100942: Wire Pull/2 54
+    100944: Wire Pull/2 55
+    100946: Wire Pull/2 56
+    100948: Wire Pull/2 57
+    100950: Wire Pull/2 58
+    100952: Wire Pull/2 59
+    100954: Wire Pull/2 6
+    100956: Wire Pull/2 60
+    100958: Wire Pull/2 61
+    100960: Wire Pull/2 62
+    100962: Wire Pull/2 63
+    100964: Wire Pull/2 64
+    100966: Wire Pull/2 65
+    100968: Wire Pull/2 66
+    100970: Wire Pull/2 67
+    100972: Wire Pull/2 68
+    100974: Wire Pull/2 69
+    100976: Wire Pull/2 7
+    100978: Wire Pull/2 70
+    100980: Wire Pull/2 71
+    100982: Wire Pull/2 72
+    100984: Wire Pull/2 73
+    100986: Wire Pull/2 74
+    100988: Wire Pull/2 75
+    100990: Wire Pull/2 76
+    100992: Wire Pull/2 77
+    100994: Wire Pull/2 78
+    100996: Wire Pull/2 79
+    100998: Wire Pull/2 8
+    101000: Wire Pull/2 80
+    101002: Wire Pull/2 81
+    101004: Wire Pull/2 82
+    101006: Wire Pull/2 83
+    101008: Wire Pull/2 84
+    101010: Wire Pull/2 85
+    101012: Wire Pull/2 86
+    101014: Wire Pull/2 87
+    101016: Wire Pull/2 88
+    101018: Wire Pull/2 89
+    101020: Wire Pull/2 9
+    101022: Wire Pull/2 90
+    101024: Wire Pull/2 91
+    101026: Wire Pull/2 92
+    101028: Wire Pull/2 93
+    101030: Wire Pull/2 94
+    101032: Wire Pull/2 95
+    400000: 12
+    400002: 12 1
+    400004: 12 2
+    400006: 12 3
+    400008: Alarm Grenzen
+    400010: Alarm Grenzen 1
+    400012: Alarme Aus
+    400014: Alarme Aus 1
+    400016: Alle Alarme Aus
+    400018: Alle Alarme Aus 1
+    400020: "Batterieladeger\xE4"
+    400022: "Batterieladeger\xE4 1"
+    400024: Bild
+    400026: Bild 1
+    400028: Caster Swivel
+    400030: Caster Swivel 1
+    400032: Caster Swivel 2
+    400034: Caster Swivel 3
+    400036: Caster Wheel
+    400038: Caster Wheel 1
+    400040: Caster Wheel 2
+    400042: Caster Wheel 3
+    400044: Component#1
+    400046: Component#1 1
+    400048: Component#1 2
+    400050: Component#1 3
+    400052: Component#1 4
+    400054: Component#1 5
+    400056: Component#10
+    400058: Component#10 1
+    400060: Component#10 10
+    400062: Component#10 11
+    400064: Component#10 12
+    400066: Component#10 13
+    400068: Component#10 14
+    400070: Component#10 15
+    400072: Component#10 16
+    400074: Component#10 17
+    400076: Component#10 18
+    400078: Component#10 19
+    400080: Component#10 2
+    400082: Component#10 20
+    400084: Component#10 21
+    400086: Component#10 22
+    400088: Component#10 23
+    400090: Component#10 24
+    400092: Component#10 25
+    400094: Component#10 26
+    400096: Component#10 27
+    400098: Component#10 28
+    400100: Component#10 29
+    400102: Component#10 3
+    400104: Component#10 30
+    400106: Component#10 31
+    400108: Component#10 32
+    400110: Component#10 33
+    400112: Component#10 34
+    400114: Component#10 35
+    400116: Component#10 36
+    400118: Component#10 37
+    400120: Component#10 38
+    400122: Component#10 39
+    400124: Component#10 4
+    400126: Component#10 40
+    400128: Component#10 41
+    400130: Component#10 42
+    400132: Component#10 43
+    400134: Component#10 44
+    400136: Component#10 45
+    400138: Component#10 46
+    400140: Component#10 47
+    400142: Component#10 48
+    400144: Component#10 49
+    400146: Component#10 5
+    400148: Component#10 50
+    400150: Component#10 51
+    400152: Component#10 52
+    400154: Component#10 53
+    400156: Component#10 54
+    400158: Component#10 55
+    400160: Component#10 56
+    400162: Component#10 57
+    400164: Component#10 58
+    400166: Component#10 59
+    400168: Component#10 6
+    400170: Component#10 60
+    400172: Component#10 61
+    400174: Component#10 62
+    400176: Component#10 63
+    400178: Component#10 64
+    400180: Component#10 65
+    400182: Component#10 66
+    400184: Component#10 67
+    400186: Component#10 68
+    400188: Component#10 69
+    400190: Component#10 7
+    400192: Component#10 8
+    400194: Component#10 9
+    400196: Component#21
+    400198: Component#21 1
+    400200: Component#21 2
+    400202: Component#21 3
+    400204: Component#21 4
+    400206: Component#21 5
+    400208: Component#21 6
+    400210: Component#21 7
+    400212: Component#3
+    400214: Component#3 1
+    400216: Component#3 10
+    400218: Component#3 11
+    400220: Component#3 12
+    400222: Component#3 13
+    400224: Component#3 14
+    400226: Component#3 15
+    400228: Component#3 16
+    400230: Component#3 17
+    400232: Component#3 18
+    400234: Component#3 19
+    400236: Component#3 2
+    400238: Component#3 20
+    400240: Component#3 21
+    400242: Component#3 22
+    400244: Component#3 23
+    400246: Component#3 24
+    400248: Component#3 25
+    400250: Component#3 26
+    400252: Component#3 27
+    400254: Component#3 28
+    400256: Component#3 29
+    400258: Component#3 3
+    400260: Component#3 30
+    400262: Component#3 31
+    400264: Component#3 32
+    400266: Component#3 33
+    400268: Component#3 34
+    400270: Component#3 35
+    400272: Component#3 4
+    400274: Component#3 5
+    400276: Component#3 6
+    400278: Component#3 7
+    400280: Component#3 8
+    400282: Component#3 9
+    400284: Component#4
+    400286: Component#4 1
+    400288: Component#4 10
+    400290: Component#4 11
+    400292: Component#4 12
+    400294: Component#4 13
+    400296: Component#4 14
+    400298: Component#4 15
+    400300: Component#4 16
+    400302: Component#4 17
+    400304: Component#4 18
+    400306: Component#4 19
+    400308: Component#4 2
+    400310: Component#4 20
+    400312: Component#4 21
+    400314: Component#4 22
+    400316: Component#4 23
+    400318: Component#4 24
+    400320: Component#4 25
+    400322: Component#4 26
+    400324: Component#4 27
+    400326: Component#4 28
+    400328: Component#4 29
+    400330: Component#4 3
+    400332: Component#4 30
+    400334: Component#4 31
+    400336: Component#4 32
+    400338: Component#4 33
+    400340: Component#4 34
+    400342: Component#4 4
+    400344: Component#4 5
+    400346: Component#4 6
+    400348: Component#4 7
+    400350: Component#4 8
+    400352: Component#4 9
+    400354: Crash Cart
+    400356: Crash/Supply Cart
+    400358: D
+    400360: D 1
+    400362: door handle
+    400364: door handle 1
+    400366: "Dr\xE4ger Anaesthesia Workstation"
+    400368: "Dr\xE4ger Anaesthesia Workstation 1"
+    400370: "Dr\xE4ger_Logo"
+    400372: "Dr\xE4ger_Logo 1"
+    400374: "Dr\xE4ger_Logo 2"
+    400376: "Dr\xE4ger_Logo 3"
+    400378: e-cylinder
+    400380: e-cylinder 1
+    400382: GammaXL
+    400384: GammaXL 1
+    400386: Group 175
+    400388: Group 176
+    400390: Group 2
+    400392: Group 233
+    400394: Group 290
+    400396: Group 292
+    400398: Group 318
+    400400: Group 344
+    400402: Group 344_MeshPart0
+    400404: Group 344_MeshPart1
+    400406: Group 346
+    400408: Group 354
+    400410: Group 362
+    400412: Group 370
+    400414: Group 372
+    400416: Group 374
+    400418: Group 376
+    400420: Group 378
+    400422: Group 386
+    400424: Group 394
+    400426: Group 4
+    400428: Group 402
+    400430: Group 404
+    400432: Group 406
+    400434: Group 408
+    400436: Group 410
+    400438: Group 412
+    400440: Group 414
+    400442: Group 416
+    400444: Group 418
+    400446: Group 420
+    400448: Group 422
+    400450: Group 424
+    400452: Group 426
+    400454: Group 428
+    400456: Group 430
+    400458: Group 6
+    400460: Group 677
+    400462: Group 744
+    400464: Group 804
+    400466: Group 805
+    400468: Group 807
+    400470: Group 809
+    400472: Group 814
+    400474: Group 820
+    400476: Group 821
+    400478: Group 823
+    400480: Group 825
+    400482: Group 827
+    400484: Group 829
+    400486: Group 831
+    400488: Group 833
+    400490: Group 851
+    400492: Group 852
+    400494: Group 854
+    400496: Group 855
+    400498: Group 857
+    400500: Group 859
+    400502: Group 861
+    400504: Group 862
+    400506: Group 863
+    400508: Group 865
+    400510: Group 866
+    400512: Group 868
+    400514: Group 869
+    400516: Group 871
+    400518: Group 873
+    400520: Group 875
+    400522: Group 876
+    400524: Group 877
+    400526: Group 879
+    400528: Group 880
+    400530: Group 882
+    400532: Group 883
+    400534: Group 885
+    400536: Group 887
+    400538: Group 889
+    400540: Group 890
+    400542: Group 891
+    400544: Group 893
+    400546: Group 894
+    400548: Group 896
+    400550: Group 897
+    400552: Group 899
+    400554: Group 901
+    400556: Group 903
+    400558: Group 904
+    400560: Group 905
+    400562: Hauptbild
+    400564: Hauptbild 1
+    400566: Infinity Gamma X
+    400568: Infinity Gamma X 1
+    400570: joint
+    400572: joint 1
+    400574: joint 2
+    400576: joint 3
+    400578: Kopie
+    400580: Kopie 1
+    400582: LC-T121R8PU 12V,
+    400584: LC-T121R8PU 12V, 1
+    400586: Light_Floor_Arco
+    400588: Light_Floor_Arco 1
+    400590: Light_Floor_Cable#1
+    400592: Light_Floor_Cable#1 1
+    400594: "Men\xFC"
+    400596: "Men\xFC 1"
+    400598: modern door handle
+    400600: modern door handle 1
+    400602: NBP
+    400604: NBP 1
+    400606: NBP Only !
+    400608: NBP Only ! 1
+    400610: Notfall
+    400612: Notfall 1
+    400614: 'Pin BO-PP-25(m6) - Art. No.: 035001'
+    400616: 'Pin BO-PP-25(m6) - Art. No.: 035001 1'
+    400618: 'Pin BO-PP-25(m6) - Art. No.: 035001 10'
+    400620: 'Pin BO-PP-25(m6) - Art. No.: 035001 11'
+    400622: 'Pin BO-PP-25(m6) - Art. No.: 035001 12'
+    400624: 'Pin BO-PP-25(m6) - Art. No.: 035001 13'
+    400626: 'Pin BO-PP-25(m6) - Art. No.: 035001 14'
+    400628: 'Pin BO-PP-25(m6) - Art. No.: 035001 15'
+    400630: 'Pin BO-PP-25(m6) - Art. No.: 035001 2'
+    400632: 'Pin BO-PP-25(m6) - Art. No.: 035001 3'
+    400634: 'Pin BO-PP-25(m6) - Art. No.: 035001 4'
+    400636: 'Pin BO-PP-25(m6) - Art. No.: 035001 5'
+    400638: 'Pin BO-PP-25(m6) - Art. No.: 035001 6'
+    400640: 'Pin BO-PP-25(m6) - Art. No.: 035001 7'
+    400642: 'Pin BO-PP-25(m6) - Art. No.: 035001 8'
+    400644: 'Pin BO-PP-25(m6) - Art. No.: 035001 9'
+    400646: pr
+    400648: pr 1
+    400650: Primus#1
+    400652: Primus#1 1
+    400654: Rechargeable Sea
+    400656: Rechargeable Sea 1
+    400658: SimpleDome02
+    400660: SimpleDome02 1
+    400662: ske40D
+    400664: ske40D 1
+    400666: ske40D 10
+    400668: ske40D 11
+    400670: ske40D 12
+    400672: ske40D 13
+    400674: ske40D 14
+    400676: ske40D 15
+    400678: ske40D 2
+    400680: ske40D 3
+    400682: ske40D 4
+    400684: ske40D 5
+    400686: ske40D 6
+    400688: ske40D 7
+    400690: ske40D 8
+    400692: ske40D 9
+    400694: Start / Stop
+    400696: Start / Stop 1
+    400698: Surgery 1
+    400700: To Nurses statio
+    400702: //RootNode
+    400704: Untitled(2)
+    400706: Untitled(2) 1
+    400708: Vial
+    400710: Vial 1
+    400712: Vial 2
+    400714: Vial 3
+    400716: Wire Pull
+    400718: Wire Pull 1
+    400720: Wire Pull 10
+    400722: Wire Pull 11
+    400724: Wire Pull 12
+    400726: Wire Pull 13
+    400728: Wire Pull 14
+    400730: Wire Pull 15
+    400732: Wire Pull 16
+    400734: Wire Pull 17
+    400736: Wire Pull 18
+    400738: Wire Pull 19
+    400740: Wire Pull 2
+    400742: Wire Pull 20
+    400744: Wire Pull 21
+    400746: Wire Pull 22
+    400748: Wire Pull 23
+    400750: Wire Pull 24
+    400752: Wire Pull 25
+    400754: Wire Pull 26
+    400756: Wire Pull 27
+    400758: Wire Pull 28
+    400760: Wire Pull 29
+    400762: Wire Pull 3
+    400764: Wire Pull 30
+    400766: Wire Pull 31
+    400768: Wire Pull 32
+    400770: Wire Pull 33
+    400772: Wire Pull 34
+    400774: Wire Pull 35
+    400776: Wire Pull 36
+    400778: Wire Pull 37
+    400780: Wire Pull 38
+    400782: Wire Pull 39
+    400784: Wire Pull 4
+    400786: Wire Pull 40
+    400788: Wire Pull 41
+    400790: Wire Pull 42
+    400792: Wire Pull 43
+    400794: Wire Pull 5
+    400796: Wire Pull 6
+    400798: Wire Pull 7
+    400800: Wire Pull 8
+    400802: Wire Pull 9
+    400804: Wire Pull#1
+    400806: Wire Pull#1 1
+    400808: Wire Pull#1 10
+    400810: Wire Pull#1 11
+    400812: Wire Pull#1 12
+    400814: Wire Pull#1 13
+    400816: Wire Pull#1 14
+    400818: Wire Pull#1 15
+    400820: Wire Pull#1 16
+    400822: Wire Pull#1 17
+    400824: Wire Pull#1 18
+    400826: Wire Pull#1 2
+    400828: Wire Pull#1 3
+    400830: Wire Pull#1 4
+    400832: Wire Pull#1 5
+    400834: Wire Pull#1 6
+    400836: Wire Pull#1 7
+    400838: Wire Pull#1 8
+    400840: Wire Pull#1 9
+    400842: Wire Pull/2
+    400844: Wire Pull/2 1
+    400846: Wire Pull/2 10
+    400848: Wire Pull/2 11
+    400850: Wire Pull/2 12
+    400852: Wire Pull/2 13
+    400854: Wire Pull/2 14
+    400856: Wire Pull/2 15
+    400858: Wire Pull/2 16
+    400860: Wire Pull/2 17
+    400862: Wire Pull/2 18
+    400864: Wire Pull/2 19
+    400866: Wire Pull/2 2
+    400868: Wire Pull/2 20
+    400870: Wire Pull/2 21
+    400872: Wire Pull/2 22
+    400874: Wire Pull/2 23
+    400876: Wire Pull/2 24
+    400878: Wire Pull/2 25
+    400880: Wire Pull/2 26
+    400882: Wire Pull/2 27
+    400884: Wire Pull/2 28
+    400886: Wire Pull/2 29
+    400888: Wire Pull/2 3
+    400890: Wire Pull/2 30
+    400892: Wire Pull/2 31
+    400894: Wire Pull/2 32
+    400896: Wire Pull/2 33
+    400898: Wire Pull/2 34
+    400900: Wire Pull/2 35
+    400902: Wire Pull/2 36
+    400904: Wire Pull/2 37
+    400906: Wire Pull/2 38
+    400908: Wire Pull/2 39
+    400910: Wire Pull/2 4
+    400912: Wire Pull/2 40
+    400914: Wire Pull/2 41
+    400916: Wire Pull/2 42
+    400918: Wire Pull/2 43
+    400920: Wire Pull/2 44
+    400922: Wire Pull/2 45
+    400924: Wire Pull/2 46
+    400926: Wire Pull/2 47
+    400928: Wire Pull/2 48
+    400930: Wire Pull/2 49
+    400932: Wire Pull/2 5
+    400934: Wire Pull/2 50
+    400936: Wire Pull/2 51
+    400938: Wire Pull/2 52
+    400940: Wire Pull/2 53
+    400942: Wire Pull/2 54
+    400944: Wire Pull/2 55
+    400946: Wire Pull/2 56
+    400948: Wire Pull/2 57
+    400950: Wire Pull/2 58
+    400952: Wire Pull/2 59
+    400954: Wire Pull/2 6
+    400956: Wire Pull/2 60
+    400958: Wire Pull/2 61
+    400960: Wire Pull/2 62
+    400962: Wire Pull/2 63
+    400964: Wire Pull/2 64
+    400966: Wire Pull/2 65
+    400968: Wire Pull/2 66
+    400970: Wire Pull/2 67
+    400972: Wire Pull/2 68
+    400974: Wire Pull/2 69
+    400976: Wire Pull/2 7
+    400978: Wire Pull/2 70
+    400980: Wire Pull/2 71
+    400982: Wire Pull/2 72
+    400984: Wire Pull/2 73
+    400986: Wire Pull/2 74
+    400988: Wire Pull/2 75
+    400990: Wire Pull/2 76
+    400992: Wire Pull/2 77
+    400994: Wire Pull/2 78
+    400996: Wire Pull/2 79
+    400998: Wire Pull/2 8
+    401000: Wire Pull/2 80
+    401002: Wire Pull/2 81
+    401004: Wire Pull/2 82
+    401006: Wire Pull/2 83
+    401008: Wire Pull/2 84
+    401010: Wire Pull/2 85
+    401012: Wire Pull/2 86
+    401014: Wire Pull/2 87
+    401016: Wire Pull/2 88
+    401018: Wire Pull/2 89
+    401020: Wire Pull/2 9
+    401022: Wire Pull/2 90
+    401024: Wire Pull/2 91
+    401026: Wire Pull/2 92
+    401028: Wire Pull/2 93
+    401030: Wire Pull/2 94
+    401032: Wire Pull/2 95
+    2300000: 12
+    2300002: 12 1
+    2300004: 12 2
+    2300006: 12 3
+    2300008: Alarm Grenzen
+    2300010: Alarm Grenzen 1
+    2300012: Alarme Aus
+    2300014: Alarme Aus 1
+    2300016: Alle Alarme Aus
+    2300018: Alle Alarme Aus 1
+    2300020: "Batterieladeger\xE4"
+    2300022: "Batterieladeger\xE4 1"
+    2300024: Bild
+    2300026: Bild 1
+    2300028: Caster Swivel
+    2300030: Caster Swivel 1
+    2300032: Caster Swivel 2
+    2300034: Caster Swivel 3
+    2300036: Caster Wheel
+    2300038: Caster Wheel 1
+    2300040: Caster Wheel 2
+    2300042: Caster Wheel 3
+    2300044: Component#1
+    2300046: Component#1 1
+    2300048: Component#1 2
+    2300050: Component#1 3
+    2300052: Component#1 4
+    2300054: Component#1 5
+    2300056: Component#10
+    2300058: Component#10 1
+    2300060: Component#10 10
+    2300062: Component#10 11
+    2300064: Component#10 12
+    2300066: Component#10 13
+    2300068: Component#10 14
+    2300070: Component#10 15
+    2300072: Component#10 16
+    2300074: Component#10 17
+    2300076: Component#10 18
+    2300078: Component#10 19
+    2300080: Component#10 2
+    2300082: Component#10 20
+    2300084: Component#10 21
+    2300086: Component#10 22
+    2300088: Component#10 23
+    2300090: Component#10 24
+    2300092: Component#10 25
+    2300094: Component#10 26
+    2300096: Component#10 27
+    2300098: Component#10 28
+    2300100: Component#10 29
+    2300102: Component#10 3
+    2300104: Component#10 30
+    2300106: Component#10 31
+    2300108: Component#10 32
+    2300110: Component#10 33
+    2300112: Component#10 34
+    2300114: Component#10 35
+    2300116: Component#10 36
+    2300118: Component#10 37
+    2300120: Component#10 38
+    2300122: Component#10 39
+    2300124: Component#10 4
+    2300126: Component#10 40
+    2300128: Component#10 41
+    2300130: Component#10 42
+    2300132: Component#10 43
+    2300134: Component#10 44
+    2300136: Component#10 45
+    2300138: Component#10 46
+    2300140: Component#10 47
+    2300142: Component#10 48
+    2300144: Component#10 49
+    2300146: Component#10 5
+    2300148: Component#10 50
+    2300150: Component#10 51
+    2300152: Component#10 52
+    2300154: Component#10 53
+    2300156: Component#10 54
+    2300158: Component#10 55
+    2300160: Component#10 56
+    2300162: Component#10 57
+    2300164: Component#10 58
+    2300166: Component#10 59
+    2300168: Component#10 6
+    2300170: Component#10 60
+    2300172: Component#10 61
+    2300174: Component#10 62
+    2300176: Component#10 63
+    2300178: Component#10 64
+    2300180: Component#10 65
+    2300182: Component#10 66
+    2300184: Component#10 67
+    2300186: Component#10 68
+    2300188: Component#10 69
+    2300190: Component#10 7
+    2300192: Component#10 8
+    2300194: Component#10 9
+    2300196: Component#3
+    2300198: Component#3 1
+    2300200: Component#3 10
+    2300202: Component#3 11
+    2300204: Component#3 12
+    2300206: Component#3 13
+    2300208: Component#3 14
+    2300210: Component#3 15
+    2300212: Component#3 16
+    2300214: Component#3 17
+    2300216: Component#3 18
+    2300218: Component#3 19
+    2300220: Component#3 2
+    2300222: Component#3 20
+    2300224: Component#3 21
+    2300226: Component#3 22
+    2300228: Component#3 23
+    2300230: Component#3 24
+    2300232: Component#3 25
+    2300234: Component#3 26
+    2300236: Component#3 27
+    2300238: Component#3 28
+    2300240: Component#3 29
+    2300242: Component#3 3
+    2300244: Component#3 30
+    2300246: Component#3 31
+    2300248: Component#3 32
+    2300250: Component#3 33
+    2300252: Component#3 34
+    2300254: Component#3 35
+    2300256: Component#3 4
+    2300258: Component#3 5
+    2300260: Component#3 6
+    2300262: Component#3 7
+    2300264: Component#3 8
+    2300266: Component#3 9
+    2300268: Component#4
+    2300270: Component#4 1
+    2300272: Component#4 10
+    2300274: Component#4 11
+    2300276: Component#4 12
+    2300278: Component#4 13
+    2300280: Component#4 14
+    2300282: Component#4 15
+    2300284: Component#4 16
+    2300286: Component#4 17
+    2300288: Component#4 18
+    2300290: Component#4 19
+    2300292: Component#4 2
+    2300294: Component#4 20
+    2300296: Component#4 21
+    2300298: Component#4 22
+    2300300: Component#4 23
+    2300302: Component#4 24
+    2300304: Component#4 25
+    2300306: Component#4 26
+    2300308: Component#4 27
+    2300310: Component#4 28
+    2300312: Component#4 29
+    2300314: Component#4 3
+    2300316: Component#4 30
+    2300318: Component#4 31
+    2300320: Component#4 32
+    2300322: Component#4 33
+    2300324: Component#4 34
+    2300326: Component#4 4
+    2300328: Component#4 5
+    2300330: Component#4 6
+    2300332: Component#4 7
+    2300334: Component#4 8
+    2300336: Component#4 9
+    2300338: D
+    2300340: D 1
+    2300342: door handle
+    2300344: door handle 1
+    2300346: "Dr\xE4ger Anaesthesia Workstation"
+    2300348: "Dr\xE4ger Anaesthesia Workstation 1"
+    2300350: "Dr\xE4ger_Logo"
+    2300352: "Dr\xE4ger_Logo 1"
+    2300354: "Dr\xE4ger_Logo 2"
+    2300356: "Dr\xE4ger_Logo 3"
+    2300358: e-cylinder
+    2300360: e-cylinder 1
+    2300362: GammaXL
+    2300364: GammaXL 1
+    2300366: Group 2
+    2300368: Group 290
+    2300370: Group 292
+    2300372: Group 318
+    2300374: Group 344_MeshPart0
+    2300376: Group 344_MeshPart1
+    2300378: Group 346
+    2300380: Group 354
+    2300382: Group 362
+    2300384: Group 370
+    2300386: Group 372
+    2300388: Group 374
+    2300390: Group 376
+    2300392: Group 378
+    2300394: Group 386
+    2300396: Group 394
+    2300398: Group 4
+    2300400: Group 402
+    2300402: Group 404
+    2300404: Group 406
+    2300406: Group 408
+    2300408: Group 410
+    2300410: Group 412
+    2300412: Group 414
+    2300414: Group 416
+    2300416: Group 418
+    2300418: Group 420
+    2300420: Group 422
+    2300422: Group 424
+    2300424: Group 426
+    2300426: Group 428
+    2300428: Group 430
+    2300430: Group 677
+    2300432: Group 744
+    2300434: Group 805
+    2300436: Group 807
+    2300438: Group 809
+    2300440: Group 814
+    2300442: Group 821
+    2300444: Group 823
+    2300446: Group 825
+    2300448: Group 827
+    2300450: Group 829
+    2300452: Group 831
+    2300454: Group 833
+    2300456: Group 852
+    2300458: Group 855
+    2300460: Group 857
+    2300462: Group 859
+    2300464: Group 863
+    2300466: Group 866
+    2300468: Group 869
+    2300470: Group 871
+    2300472: Group 873
+    2300474: Group 877
+    2300476: Group 880
+    2300478: Group 883
+    2300480: Group 885
+    2300482: Group 887
+    2300484: Group 891
+    2300486: Group 894
+    2300488: Group 897
+    2300490: Group 899
+    2300492: Group 901
+    2300494: Group 905
+    2300496: Hauptbild
+    2300498: Hauptbild 1
+    2300500: Infinity Gamma X
+    2300502: Infinity Gamma X 1
+    2300504: joint
+    2300506: joint 1
+    2300508: joint 2
+    2300510: joint 3
+    2300512: Kopie
+    2300514: Kopie 1
+    2300516: LC-T121R8PU 12V,
+    2300518: LC-T121R8PU 12V, 1
+    2300520: Light_Floor_Arco
+    2300522: Light_Floor_Arco 1
+    2300524: Light_Floor_Cable#1
+    2300526: Light_Floor_Cable#1 1
+    2300528: "Men\xFC"
+    2300530: "Men\xFC 1"
+    2300532: NBP
+    2300534: NBP 1
+    2300536: NBP Only !
+    2300538: NBP Only ! 1
+    2300540: Notfall
+    2300542: Notfall 1
+    2300544: 'Pin BO-PP-25(m6) - Art. No.: 035001'
+    2300546: 'Pin BO-PP-25(m6) - Art. No.: 035001 1'
+    2300548: 'Pin BO-PP-25(m6) - Art. No.: 035001 10'
+    2300550: 'Pin BO-PP-25(m6) - Art. No.: 035001 11'
+    2300552: 'Pin BO-PP-25(m6) - Art. No.: 035001 12'
+    2300554: 'Pin BO-PP-25(m6) - Art. No.: 035001 13'
+    2300556: 'Pin BO-PP-25(m6) - Art. No.: 035001 14'
+    2300558: 'Pin BO-PP-25(m6) - Art. No.: 035001 15'
+    2300560: 'Pin BO-PP-25(m6) - Art. No.: 035001 2'
+    2300562: 'Pin BO-PP-25(m6) - Art. No.: 035001 3'
+    2300564: 'Pin BO-PP-25(m6) - Art. No.: 035001 4'
+    2300566: 'Pin BO-PP-25(m6) - Art. No.: 035001 5'
+    2300568: 'Pin BO-PP-25(m6) - Art. No.: 035001 6'
+    2300570: 'Pin BO-PP-25(m6) - Art. No.: 035001 7'
+    2300572: 'Pin BO-PP-25(m6) - Art. No.: 035001 8'
+    2300574: 'Pin BO-PP-25(m6) - Art. No.: 035001 9'
+    2300576: pr
+    2300578: pr 1
+    2300580: Primus#1
+    2300582: Primus#1 1
+    2300584: Rechargeable Sea
+    2300586: Rechargeable Sea 1
+    2300588: SimpleDome02
+    2300590: SimpleDome02 1
+    2300592: Start / Stop
+    2300594: Start / Stop 1
+    2300596: Surgery 1
+    2300598: To Nurses statio
+    2300600: //RootNode
+    2300602: Vial
+    2300604: Vial 1
+    2300606: Vial 2
+    2300608: Vial 3
+    2300610: Wire Pull/2
+    2300612: Wire Pull/2 1
+    2300614: Wire Pull/2 10
+    2300616: Wire Pull/2 11
+    2300618: Wire Pull/2 12
+    2300620: Wire Pull/2 13
+    2300622: Wire Pull/2 14
+    2300624: Wire Pull/2 15
+    2300626: Wire Pull/2 16
+    2300628: Wire Pull/2 17
+    2300630: Wire Pull/2 18
+    2300632: Wire Pull/2 19
+    2300634: Wire Pull/2 2
+    2300636: Wire Pull/2 20
+    2300638: Wire Pull/2 21
+    2300640: Wire Pull/2 22
+    2300642: Wire Pull/2 23
+    2300644: Wire Pull/2 24
+    2300646: Wire Pull/2 25
+    2300648: Wire Pull/2 26
+    2300650: Wire Pull/2 27
+    2300652: Wire Pull/2 28
+    2300654: Wire Pull/2 29
+    2300656: Wire Pull/2 3
+    2300658: Wire Pull/2 30
+    2300660: Wire Pull/2 31
+    2300662: Wire Pull/2 32
+    2300664: Wire Pull/2 33
+    2300666: Wire Pull/2 34
+    2300668: Wire Pull/2 35
+    2300670: Wire Pull/2 36
+    2300672: Wire Pull/2 37
+    2300674: Wire Pull/2 38
+    2300676: Wire Pull/2 39
+    2300678: Wire Pull/2 4
+    2300680: Wire Pull/2 40
+    2300682: Wire Pull/2 41
+    2300684: Wire Pull/2 42
+    2300686: Wire Pull/2 43
+    2300688: Wire Pull/2 44
+    2300690: Wire Pull/2 45
+    2300692: Wire Pull/2 46
+    2300694: Wire Pull/2 47
+    2300696: Wire Pull/2 48
+    2300698: Wire Pull/2 49
+    2300700: Wire Pull/2 5
+    2300702: Wire Pull/2 50
+    2300704: Wire Pull/2 51
+    2300706: Wire Pull/2 52
+    2300708: Wire Pull/2 53
+    2300710: Wire Pull/2 54
+    2300712: Wire Pull/2 55
+    2300714: Wire Pull/2 56
+    2300716: Wire Pull/2 57
+    2300718: Wire Pull/2 58
+    2300720: Wire Pull/2 59
+    2300722: Wire Pull/2 6
+    2300724: Wire Pull/2 60
+    2300726: Wire Pull/2 61
+    2300728: Wire Pull/2 62
+    2300730: Wire Pull/2 63
+    2300732: Wire Pull/2 64
+    2300734: Wire Pull/2 65
+    2300736: Wire Pull/2 66
+    2300738: Wire Pull/2 67
+    2300740: Wire Pull/2 68
+    2300742: Wire Pull/2 69
+    2300744: Wire Pull/2 7
+    2300746: Wire Pull/2 70
+    2300748: Wire Pull/2 71
+    2300750: Wire Pull/2 72
+    2300752: Wire Pull/2 73
+    2300754: Wire Pull/2 74
+    2300756: Wire Pull/2 75
+    2300758: Wire Pull/2 76
+    2300760: Wire Pull/2 77
+    2300762: Wire Pull/2 78
+    2300764: Wire Pull/2 79
+    2300766: Wire Pull/2 8
+    2300768: Wire Pull/2 80
+    2300770: Wire Pull/2 81
+    2300772: Wire Pull/2 82
+    2300774: Wire Pull/2 83
+    2300776: Wire Pull/2 84
+    2300778: Wire Pull/2 85
+    2300780: Wire Pull/2 86
+    2300782: Wire Pull/2 87
+    2300784: Wire Pull/2 88
+    2300786: Wire Pull/2 89
+    2300788: Wire Pull/2 9
+    2300790: Wire Pull/2 90
+    2300792: Wire Pull/2 91
+    2300794: Wire Pull/2 92
+    2300796: Wire Pull/2 93
+    2300798: Wire Pull/2 94
+    2300800: Wire Pull/2 95
+    3300000: 12
+    3300002: 12 1
+    3300004: 12 2
+    3300006: 12 3
+    3300008: Alarm Grenzen
+    3300010: Alarm Grenzen 1
+    3300012: Alarme Aus
+    3300014: Alarme Aus 1
+    3300016: Alle Alarme Aus
+    3300018: Alle Alarme Aus 1
+    3300020: "Batterieladeger\xE4"
+    3300022: "Batterieladeger\xE4 1"
+    3300024: Bild
+    3300026: Bild 1
+    3300028: Caster Swivel
+    3300030: Caster Swivel 1
+    3300032: Caster Swivel 2
+    3300034: Caster Swivel 3
+    3300036: Caster Wheel
+    3300038: Caster Wheel 1
+    3300040: Caster Wheel 2
+    3300042: Caster Wheel 3
+    3300044: Component#1
+    3300046: Component#1 1
+    3300048: Component#1 2
+    3300050: Component#1 3
+    3300052: Component#1 4
+    3300054: Component#1 5
+    3300056: Component#10
+    3300058: Component#10 1
+    3300060: Component#10 10
+    3300062: Component#10 11
+    3300064: Component#10 12
+    3300066: Component#10 13
+    3300068: Component#10 14
+    3300070: Component#10 15
+    3300072: Component#10 16
+    3300074: Component#10 17
+    3300076: Component#10 18
+    3300078: Component#10 19
+    3300080: Component#10 2
+    3300082: Component#10 20
+    3300084: Component#10 21
+    3300086: Component#10 22
+    3300088: Component#10 23
+    3300090: Component#10 24
+    3300092: Component#10 25
+    3300094: Component#10 26
+    3300096: Component#10 27
+    3300098: Component#10 28
+    3300100: Component#10 29
+    3300102: Component#10 3
+    3300104: Component#10 30
+    3300106: Component#10 31
+    3300108: Component#10 32
+    3300110: Component#10 33
+    3300112: Component#10 34
+    3300114: Component#10 35
+    3300116: Component#10 36
+    3300118: Component#10 37
+    3300120: Component#10 38
+    3300122: Component#10 39
+    3300124: Component#10 4
+    3300126: Component#10 40
+    3300128: Component#10 41
+    3300130: Component#10 42
+    3300132: Component#10 43
+    3300134: Component#10 44
+    3300136: Component#10 45
+    3300138: Component#10 46
+    3300140: Component#10 47
+    3300142: Component#10 48
+    3300144: Component#10 49
+    3300146: Component#10 5
+    3300148: Component#10 50
+    3300150: Component#10 51
+    3300152: Component#10 52
+    3300154: Component#10 53
+    3300156: Component#10 54
+    3300158: Component#10 55
+    3300160: Component#10 56
+    3300162: Component#10 57
+    3300164: Component#10 58
+    3300166: Component#10 59
+    3300168: Component#10 6
+    3300170: Component#10 60
+    3300172: Component#10 61
+    3300174: Component#10 62
+    3300176: Component#10 63
+    3300178: Component#10 64
+    3300180: Component#10 65
+    3300182: Component#10 66
+    3300184: Component#10 67
+    3300186: Component#10 68
+    3300188: Component#10 69
+    3300190: Component#10 7
+    3300192: Component#10 8
+    3300194: Component#10 9
+    3300196: Component#3
+    3300198: Component#3 1
+    3300200: Component#3 10
+    3300202: Component#3 11
+    3300204: Component#3 12
+    3300206: Component#3 13
+    3300208: Component#3 14
+    3300210: Component#3 15
+    3300212: Component#3 16
+    3300214: Component#3 17
+    3300216: Component#3 18
+    3300218: Component#3 19
+    3300220: Component#3 2
+    3300222: Component#3 20
+    3300224: Component#3 21
+    3300226: Component#3 22
+    3300228: Component#3 23
+    3300230: Component#3 24
+    3300232: Component#3 25
+    3300234: Component#3 26
+    3300236: Component#3 27
+    3300238: Component#3 28
+    3300240: Component#3 29
+    3300242: Component#3 3
+    3300244: Component#3 30
+    3300246: Component#3 31
+    3300248: Component#3 32
+    3300250: Component#3 33
+    3300252: Component#3 34
+    3300254: Component#3 35
+    3300256: Component#3 4
+    3300258: Component#3 5
+    3300260: Component#3 6
+    3300262: Component#3 7
+    3300264: Component#3 8
+    3300266: Component#3 9
+    3300268: Component#4
+    3300270: Component#4 1
+    3300272: Component#4 10
+    3300274: Component#4 11
+    3300276: Component#4 12
+    3300278: Component#4 13
+    3300280: Component#4 14
+    3300282: Component#4 15
+    3300284: Component#4 16
+    3300286: Component#4 17
+    3300288: Component#4 18
+    3300290: Component#4 19
+    3300292: Component#4 2
+    3300294: Component#4 20
+    3300296: Component#4 21
+    3300298: Component#4 22
+    3300300: Component#4 23
+    3300302: Component#4 24
+    3300304: Component#4 25
+    3300306: Component#4 26
+    3300308: Component#4 27
+    3300310: Component#4 28
+    3300312: Component#4 29
+    3300314: Component#4 3
+    3300316: Component#4 30
+    3300318: Component#4 31
+    3300320: Component#4 32
+    3300322: Component#4 33
+    3300324: Component#4 34
+    3300326: Component#4 4
+    3300328: Component#4 5
+    3300330: Component#4 6
+    3300332: Component#4 7
+    3300334: Component#4 8
+    3300336: Component#4 9
+    3300338: D
+    3300340: D 1
+    3300342: door handle
+    3300344: door handle 1
+    3300346: "Dr\xE4ger Anaesthesia Workstation"
+    3300348: "Dr\xE4ger Anaesthesia Workstation 1"
+    3300350: "Dr\xE4ger_Logo"
+    3300352: "Dr\xE4ger_Logo 1"
+    3300354: "Dr\xE4ger_Logo 2"
+    3300356: "Dr\xE4ger_Logo 3"
+    3300358: e-cylinder
+    3300360: e-cylinder 1
+    3300362: GammaXL
+    3300364: GammaXL 1
+    3300366: Group 2
+    3300368: Group 290
+    3300370: Group 292
+    3300372: Group 318
+    3300374: Group 344_MeshPart0
+    3300376: Group 344_MeshPart1
+    3300378: Group 346
+    3300380: Group 354
+    3300382: Group 362
+    3300384: Group 370
+    3300386: Group 372
+    3300388: Group 374
+    3300390: Group 376
+    3300392: Group 378
+    3300394: Group 386
+    3300396: Group 394
+    3300398: Group 4
+    3300400: Group 402
+    3300402: Group 404
+    3300404: Group 406
+    3300406: Group 408
+    3300408: Group 410
+    3300410: Group 412
+    3300412: Group 414
+    3300414: Group 416
+    3300416: Group 418
+    3300418: Group 420
+    3300420: Group 422
+    3300422: Group 424
+    3300424: Group 426
+    3300426: Group 428
+    3300428: Group 430
+    3300430: Group 677
+    3300432: Group 744
+    3300434: Group 805
+    3300436: Group 807
+    3300438: Group 809
+    3300440: Group 814
+    3300442: Group 821
+    3300444: Group 823
+    3300446: Group 825
+    3300448: Group 827
+    3300450: Group 829
+    3300452: Group 831
+    3300454: Group 833
+    3300456: Group 852
+    3300458: Group 855
+    3300460: Group 857
+    3300462: Group 859
+    3300464: Group 863
+    3300466: Group 866
+    3300468: Group 869
+    3300470: Group 871
+    3300472: Group 873
+    3300474: Group 877
+    3300476: Group 880
+    3300478: Group 883
+    3300480: Group 885
+    3300482: Group 887
+    3300484: Group 891
+    3300486: Group 894
+    3300488: Group 897
+    3300490: Group 899
+    3300492: Group 901
+    3300494: Group 905
+    3300496: Hauptbild
+    3300498: Hauptbild 1
+    3300500: Infinity Gamma X
+    3300502: Infinity Gamma X 1
+    3300504: joint
+    3300506: joint 1
+    3300508: joint 2
+    3300510: joint 3
+    3300512: Kopie
+    3300514: Kopie 1
+    3300516: LC-T121R8PU 12V,
+    3300518: LC-T121R8PU 12V, 1
+    3300520: Light_Floor_Arco
+    3300522: Light_Floor_Arco 1
+    3300524: Light_Floor_Cable#1
+    3300526: Light_Floor_Cable#1 1
+    3300528: "Men\xFC"
+    3300530: "Men\xFC 1"
+    3300532: NBP
+    3300534: NBP 1
+    3300536: NBP Only !
+    3300538: NBP Only ! 1
+    3300540: Notfall
+    3300542: Notfall 1
+    3300544: 'Pin BO-PP-25(m6) - Art. No.: 035001'
+    3300546: 'Pin BO-PP-25(m6) - Art. No.: 035001 1'
+    3300548: 'Pin BO-PP-25(m6) - Art. No.: 035001 10'
+    3300550: 'Pin BO-PP-25(m6) - Art. No.: 035001 11'
+    3300552: 'Pin BO-PP-25(m6) - Art. No.: 035001 12'
+    3300554: 'Pin BO-PP-25(m6) - Art. No.: 035001 13'
+    3300556: 'Pin BO-PP-25(m6) - Art. No.: 035001 14'
+    3300558: 'Pin BO-PP-25(m6) - Art. No.: 035001 15'
+    3300560: 'Pin BO-PP-25(m6) - Art. No.: 035001 2'
+    3300562: 'Pin BO-PP-25(m6) - Art. No.: 035001 3'
+    3300564: 'Pin BO-PP-25(m6) - Art. No.: 035001 4'
+    3300566: 'Pin BO-PP-25(m6) - Art. No.: 035001 5'
+    3300568: 'Pin BO-PP-25(m6) - Art. No.: 035001 6'
+    3300570: 'Pin BO-PP-25(m6) - Art. No.: 035001 7'
+    3300572: 'Pin BO-PP-25(m6) - Art. No.: 035001 8'
+    3300574: 'Pin BO-PP-25(m6) - Art. No.: 035001 9'
+    3300576: pr
+    3300578: pr 1
+    3300580: Primus#1
+    3300582: Primus#1 1
+    3300584: Rechargeable Sea
+    3300586: Rechargeable Sea 1
+    3300588: SimpleDome02
+    3300590: SimpleDome02 1
+    3300592: Start / Stop
+    3300594: Start / Stop 1
+    3300596: Surgery 1
+    3300598: To Nurses statio
+    3300600: //RootNode
+    3300602: Vial
+    3300604: Vial 1
+    3300606: Vial 2
+    3300608: Vial 3
+    3300610: Wire Pull/2
+    3300612: Wire Pull/2 1
+    3300614: Wire Pull/2 10
+    3300616: Wire Pull/2 11
+    3300618: Wire Pull/2 12
+    3300620: Wire Pull/2 13
+    3300622: Wire Pull/2 14
+    3300624: Wire Pull/2 15
+    3300626: Wire Pull/2 16
+    3300628: Wire Pull/2 17
+    3300630: Wire Pull/2 18
+    3300632: Wire Pull/2 19
+    3300634: Wire Pull/2 2
+    3300636: Wire Pull/2 20
+    3300638: Wire Pull/2 21
+    3300640: Wire Pull/2 22
+    3300642: Wire Pull/2 23
+    3300644: Wire Pull/2 24
+    3300646: Wire Pull/2 25
+    3300648: Wire Pull/2 26
+    3300650: Wire Pull/2 27
+    3300652: Wire Pull/2 28
+    3300654: Wire Pull/2 29
+    3300656: Wire Pull/2 3
+    3300658: Wire Pull/2 30
+    3300660: Wire Pull/2 31
+    3300662: Wire Pull/2 32
+    3300664: Wire Pull/2 33
+    3300666: Wire Pull/2 34
+    3300668: Wire Pull/2 35
+    3300670: Wire Pull/2 36
+    3300672: Wire Pull/2 37
+    3300674: Wire Pull/2 38
+    3300676: Wire Pull/2 39
+    3300678: Wire Pull/2 4
+    3300680: Wire Pull/2 40
+    3300682: Wire Pull/2 41
+    3300684: Wire Pull/2 42
+    3300686: Wire Pull/2 43
+    3300688: Wire Pull/2 44
+    3300690: Wire Pull/2 45
+    3300692: Wire Pull/2 46
+    3300694: Wire Pull/2 47
+    3300696: Wire Pull/2 48
+    3300698: Wire Pull/2 49
+    3300700: Wire Pull/2 5
+    3300702: Wire Pull/2 50
+    3300704: Wire Pull/2 51
+    3300706: Wire Pull/2 52
+    3300708: Wire Pull/2 53
+    3300710: Wire Pull/2 54
+    3300712: Wire Pull/2 55
+    3300714: Wire Pull/2 56
+    3300716: Wire Pull/2 57
+    3300718: Wire Pull/2 58
+    3300720: Wire Pull/2 59
+    3300722: Wire Pull/2 6
+    3300724: Wire Pull/2 60
+    3300726: Wire Pull/2 61
+    3300728: Wire Pull/2 62
+    3300730: Wire Pull/2 63
+    3300732: Wire Pull/2 64
+    3300734: Wire Pull/2 65
+    3300736: Wire Pull/2 66
+    3300738: Wire Pull/2 67
+    3300740: Wire Pull/2 68
+    3300742: Wire Pull/2 69
+    3300744: Wire Pull/2 7
+    3300746: Wire Pull/2 70
+    3300748: Wire Pull/2 71
+    3300750: Wire Pull/2 72
+    3300752: Wire Pull/2 73
+    3300754: Wire Pull/2 74
+    3300756: Wire Pull/2 75
+    3300758: Wire Pull/2 76
+    3300760: Wire Pull/2 77
+    3300762: Wire Pull/2 78
+    3300764: Wire Pull/2 79
+    3300766: Wire Pull/2 8
+    3300768: Wire Pull/2 80
+    3300770: Wire Pull/2 81
+    3300772: Wire Pull/2 82
+    3300774: Wire Pull/2 83
+    3300776: Wire Pull/2 84
+    3300778: Wire Pull/2 85
+    3300780: Wire Pull/2 86
+    3300782: Wire Pull/2 87
+    3300784: Wire Pull/2 88
+    3300786: Wire Pull/2 89
+    3300788: Wire Pull/2 9
+    3300790: Wire Pull/2 90
+    3300792: Wire Pull/2 91
+    3300794: Wire Pull/2 92
+    3300796: Wire Pull/2 93
+    3300798: Wire Pull/2 94
+    3300800: Wire Pull/2 95
+    4300000: Mesh Untitled (1)
+    4300002: Mesh Group 2
+    4300004: Mesh Group 4
+    4300006: Mesh Component#10
+    4300008: Mesh Component#4
+    4300010: Mesh Component#1
+    4300012: Mesh Component#3
+    4300014: Mesh Group 290
+    4300016: Mesh Group 292
+    4300018: 'Mesh Pin BO-PP-25(m6) - Art. No.: 035001'
+    4300020: Mesh Group 344_MeshPart0
+    4300022: Mesh Group 344_MeshPart1
+    4300024: Mesh Group 346
+    4300026: Mesh Wire Pull/2
+    4300028: Mesh Group 370
+    4300030: Mesh Group 372
+    4300032: Mesh Group 418
+    4300034: Mesh Wire Pull/2
+    4300036: "Mesh Dr\xE4ger Anaesthesia Workstation"
+    4300038: Mesh pr
+    4300040: Mesh 12
+    4300042: Mesh D
+    4300044: Mesh Primus#1
+    4300046: Mesh Light_Floor_Arco
+    4300048: Mesh Group 677
+    4300050: Mesh e-cylinder
+    4300052: Mesh GammaXL
+    4300054: "Mesh Dr\xE4ger_Logo"
+    4300056: Mesh Rechargeable Sea
+    4300058: Mesh LC-T121R8PU 12V,
+    4300060: Mesh NBP Only !
+    4300062: Mesh Infinity Gamma X
+    4300064: Mesh SimpleDome02
+    4300066: Mesh Alle Alarme Aus
+    4300068: Mesh Notfall
+    4300070: Mesh Alarm Grenzen
+    4300072: Mesh NBP
+    4300074: Mesh Start / Stop
+    4300076: Mesh Alarme Aus
+    4300078: Mesh Bild
+    4300080: Mesh Kopie
+    4300082: "Mesh Batterieladeger\xE4"
+    4300084: "Mesh Men\xFC"
+    4300086: Mesh Hauptbild
+    4300088: Mesh Light_Floor_Cable#1
+    4300090: Mesh joint
+    4300092: Mesh To Nurses statio
+    4300094: Mesh Surgery 1
+    4300096: Mesh Group 805
+    4300098: Mesh Group 807
+    4300100: Mesh Group 809
+    4300102: Mesh door handle
+    4300104: Mesh Group 821
+    4300106: Mesh Group 823
+    4300108: Mesh Group 825
+    4300110: Mesh Group 827
+    4300112: Mesh Group 831
+    4300114: Mesh Group 833
+    4300116: Mesh Caster Wheel
+    4300118: Mesh Caster Swivel
+    4300120: Mesh Group 852
+    4300122: Mesh Group 855
+    4300124: Mesh Group 857
+    4300126: Mesh Group 859
+    4300128: Mesh Group 863
+    4300130: Mesh Vial
+    4300132: Mesh operation room
+    4300134: Mesh operation
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
