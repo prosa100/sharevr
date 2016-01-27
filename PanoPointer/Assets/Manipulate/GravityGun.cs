@@ -22,7 +22,7 @@ public class GravityGun : MonoBehaviour {
                 foreach (var meshFilter in hit.rigidbody.GetComponentsInChildren<MeshFilter>())
                 {
                     Graphics.DrawMesh(meshFilter.mesh, Vector3.zero, Quaternion.identity, markerMat, 0);
-                    markerMat.renderQueue = 
+                    //markerMat.renderQueue = 
                    Graphics.DrawMesh(meshFilter.mesh, meshFilter.transform.worldToLocalMatrix/**Matrix4x4.Scale(1.1f*Vector3.one)*/, markerMat, 0);
                 }
             }

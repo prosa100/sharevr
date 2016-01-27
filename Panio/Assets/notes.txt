@@ -1,0 +1,12 @@
+rot	287.83, 189.8, 347.6014
+scale	-0.01, 0.01, 0.01
+keyboard size 0.4318
+
+
+todo 
+Screen space filtering.
+Remove bg.
+Reduce latancy by using shaders for procising
+head mounted.
+
+

@@ -4,6 +4,7 @@ using UnityEngine.Networking;
 
 public class NetworkLook : NetworkBehaviour
 {
+    public Transform pointer;
     /*
     [SyncVar]
     public bool highlight = false;
@@ -11,15 +12,15 @@ public class NetworkLook : NetworkBehaviour
     */
     //Split stuff
     public float lookSpeed = 0.1f;
-    public MonoBehaviour[] localOnly;
+    public Behaviour[] localOnly;
     void Start()
     {
         if (isLocalPlayer)
         {
-            var mct = Camera.main.transform;
-            mct.parent = transform;
-            mct.localPosition = Vector3.zero;
-            mct.localRotation = Quaternion.identity;
+            Camera.main.enabled = false;
+            //mct.parent = transform;
+            //mct.localPosition = Vector3.zero;
+            //mct.localRotation = Quaternion.identity;
             foreach (var c in localOnly)
             {
                 c.enabled = true;
@@ -34,7 +35,7 @@ public class NetworkLook : NetworkBehaviour
     {
         if (isLocalPlayer)
         {
-            transform.eulerAngles += Time.deltaTime * lookSpeed * new Vector3(Input.GetAxis("Vertical"), Input.GetAxis("Horizontal"));
+            transform.rotation *=  Quaternion.Euler(Time.deltaTime * lookSpeed * Input.GetAxis("Vertical"), Time.deltaTime * lookSpeed * Input.GetAxis("Horizontal"), 0);
             //if (Input.GetButtonDown("Fire2"))
             if(Input.GetKeyDown(KeyCode.Space))
                 transform.localRotation = Quaternion.identity;
