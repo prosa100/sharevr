@@ -14,7 +14,6 @@ public class Toggle : MonoBehaviour {
 	void Update () {
         if (Input.GetKeyDown(KeyCode.Space))
         {
-            ;
             hide.SetActive(active ^= true);
         }
     }

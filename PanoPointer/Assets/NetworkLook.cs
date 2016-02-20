@@ -33,9 +33,10 @@ public class NetworkLook : NetworkBehaviour
     // Use this for initialization
     void Update()
     {
-        if (isLocalPlayer)
+        if (isLocalPlayer && !UnityEngine.VR.VRDevice.isPresent)
         {
-            transform.rotation *=  Quaternion.Euler(Time.deltaTime * lookSpeed * Input.GetAxis("Vertical"), Time.deltaTime * lookSpeed * Input.GetAxis("Horizontal"), 0);
+            transform.eulerAngles += new Vector3(Time.deltaTime * lookSpeed * Input.GetAxis("Vertical"), Time.deltaTime * lookSpeed * Input.GetAxis("Horizontal"), 0);
+            
             //if (Input.GetButtonDown("Fire2"))
             if(Input.GetKeyDown(KeyCode.Space))
                 transform.localRotation = Quaternion.identity;
